@@ -50,4 +50,4 @@
 
 # Contributing
 
-Read [this](https://timerx-app.netlify.app/docs/CONTRIBUTING.md) for instructions!
+Read [this](https://timerx-app.netlify.app/docs/CONTRIBUTING) for instructions!
