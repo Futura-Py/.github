@@ -27,7 +27,7 @@
 ### A simple, lightweight, & beautiful timer app built in Python and tkinter.ttk using rdbende's [Sun Valley TTk Theme](https://github.com/rdbende/Sun-Valley-TTk-Theme)
 
 <p style="text-align: center;">
-    <img src="./assets/readme/dark.png"></img>
+    <img src="https://raw.githubusercontent.com/TimerX-App/.github/main/profile/assets/readme/dark.png"></img>
 </p>
     
 # Deployed with [Netlify](netlify.app)
