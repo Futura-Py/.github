@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="TimerX Logo" src="./assets/logo_new.png" width="100px" />
+    <img alt="TimerX Logo" src="https://raw.githubusercontent.com/TimerX-App/.github/main/profile/assets/logo_new.png" width="100px" />
     <h1 align="center">TimerX</h1>
 </p>
 
