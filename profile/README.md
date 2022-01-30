@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="TimerX Logo" src="https://raw.githubusercontent.com/TimerX-App/.github/main/profile/assets/logo_new.png" width="100px" />
+    <img alt="TimerX Logo" src="./assets/logo_new.png" width="100px" />
     <h1 align="center">TimerX</h1>
 </p>
 
@@ -27,21 +27,21 @@
 ### A simple, lightweight, & beautiful timer app built in Python and tkinter.ttk using rdbende's [Sun Valley TTk Theme](https://github.com/rdbende/Sun-Valley-TTk-Theme)
 
 <p style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/TimerX-App/.github/main/profile/assets/readme/dark.png"></img>
+    <img src="./assets/readme/dark.png"></img>
 </p>
+
+> Dark
+
+<p style="text-align: center;">
+    <img src="./assets/readme/light.png"></img>
+</p>
+
+> Light
     
-# Deployed with [Netlify](netlify.app)
+# 🌏Deployed with [Netlify](netlify.app)
     
-# 🎯TODO before v1.0
-- 🔝~~Add Always on Top option~~ _Released with v0.9, Get it [here](https://github.com/TimerX-App/TimerX/releases)!_
-- 🌑~~Dark Mode~~ _Released with v0.9, Get it [here](https://github.com/TimerX-App/TimerX/releases)!_
-- ⌨️~~Keybindings to Play/Pause~~ _Released with v0.9, Get it [here](https://github.com/TimerX-App/TimerX/releases)!_
-- 🔔~~Notifications~~ _Released with v0.9, Get it [here](https://github.com/TimerX-App/TimerX/releases)!_
-# Features coming after v1.0(No promises!)
-- ⚙️ ~~Add settings and about page~~ _Added in codebase!(Thanks [@not-nef](https://github.com/not-nef)!)_
-- ~~Dynamically resize elements & theme~~ _Added in codebase!(Thanks [@not-nef](https://github.com/not-nef)!)_
-- Dark Titlebar
-- ⏱️ Stopwatch Mode
+# 🎯TODO
+Look [here](https://github.com/orgs/TimerX-App/projects/1)!
 
 # Supported Platforms
 - ✔️ Windows: Tested on Windows 7,10, and 11
@@ -50,4 +50,4 @@
 
 # Contributing
 
-Read [this](https://timerx-app.netlify.app/docs/CONTRIBUTING) for instructions!
+Read [this](/docs/CONTRIBUTING.md) for instructions!
