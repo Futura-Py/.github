@@ -3,6 +3,6 @@
     <h1 align="center">Futura Software</h1>
 </p>
 
-We are **Futura Software**! We develop beautiful native-looking Python Apps in tkinter using rdbendes [Sun-Valley ttk theme](https://github.com/rdbende/sun-valley-ttk-theme) such as [TimerX](https://github.com/futura-py/TimerX)!
+We are **Futura Software**! We develop beautiful native-looking Python Apps in tkinter using rdbende's [Sun-Valley ttk theme](https://github.com/rdbende/sun-valley-ttk-theme) such as [TimerX](https://github.com/futura-py/TimerX)!
 
 Feel free to contribute on one of our projects!
