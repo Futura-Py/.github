@@ -11,10 +11,10 @@ Feel free to contribute on one of our projects!
 
 ### [TimerX](https://github.com/futura-py/TimerX)!
 
-A modern timer app for windows and linux!
+A modern timer app for Windows and Linux!
 
 ![img](https://raw.githubusercontent.com/Futura-Py/TimerX/master/assets/readme/dark.png)
 
 ### [CalcX](https://github.com/Futura-Py/CalcX)!
 
-A modern calculator app for windows!
+A modern calculator app for Windows!
