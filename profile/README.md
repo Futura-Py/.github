@@ -18,3 +18,5 @@ A modern timer app for Windows and Linux!
 ### [CalcX](https://github.com/Futura-Py/CalcX)!
 
 A modern calculator app for Windows!
+
+![img](https://user-images.githubusercontent.com/83908932/155895416-35e5a2b2-e11c-4e55-9c03-c388d4dc2424.png)
