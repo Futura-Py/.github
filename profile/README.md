@@ -13,7 +13,7 @@ Feel free to contribute on one of our projects!
 
 A modern timer app for Windows and Linux!
 
-![img](https://raw.githubusercontent.com/Futura-Py/TimerX/master/assets/readme/dark.png)
+![img](https://raw.githubusercontent.com/Futura-Py/TimerX/master/assets/readme/Screenshot.png)
 
 ### [Fluent Python Calculator](https://github.com/Futura-Py/Fluent-Python-Calculator)!
 
