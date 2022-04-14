@@ -19,4 +19,7 @@ A modern timer app for Windows and Linux!
 
 A modern calculator app for Windows!
 
+![image](https://user-images.githubusercontent.com/86362423/162604313-fd1e170c-3166-4b3c-a167-b9093fb5bdbe.png)
+<div align="center">
+    
 > Project maintained by @HuyHung1408
