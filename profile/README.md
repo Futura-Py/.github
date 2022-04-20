@@ -15,11 +15,9 @@ A modern timer app for Windows and Linux!
 
 ![img](https://raw.githubusercontent.com/Futura-Py/TimerX/master/assets/readme/Screenshot.png)
 
-### [Fluent Python Calculator](https://github.com/Futura-Py/Fluent-Python-Calculator)!
+### [Flux](https://github.com/Futura-Py/FluxCalc)!
 
 A modern calculator app for Windows!
 
-![img](https://raw.githubusercontent.com/Futura-Py/Fluent-Python-Calculator/main/docs/screenshot.png)
+![img](https://raw.githubusercontent.com/Futura-Py/FluxCalc/main/docs/screenshot.png)
 <div align="center">
-    
-> Project maintained by @HuyHung1408
