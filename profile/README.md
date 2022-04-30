@@ -13,11 +13,11 @@ Feel free to contribute on one of our projects!
 
 A modern timer app for Windows and Linux!
 
-![img](https://raw.githubusercontent.com/Futura-Py/TimerX/master/assets/readme/Screenshot.png)
+![image](https://user-images.githubusercontent.com/86362423/165756060-c6c5fa32-b4c0-45ed-9a7f-cca0dc2a2492.png)
 
 ### [Flux](https://github.com/Futura-Py/FluxCalc)!
 
 A modern calculator app for Windows!
 
-![img](https://raw.githubusercontent.com/Futura-Py/FluxCalc/main/docs/screenshot.png)
+![image](https://user-images.githubusercontent.com/86362423/165756540-afebd47e-fb17-41a6-893a-cdde1177c97d.png)
 <div align="center">
