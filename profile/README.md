@@ -15,7 +15,7 @@ A modern timer app for Windows and Linux!
 
 ![image](https://user-images.githubusercontent.com/86362423/165756060-c6c5fa32-b4c0-45ed-9a7f-cca0dc2a2492.png)
 
-### [Flux](https://github.com/Futura-Py/FluxCalc)!
+### [FluxCalc](https://github.com/Futura-Py/FluxCalc)!
 
 A modern calculator app for Windows!
 
